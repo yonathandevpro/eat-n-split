@@ -113,6 +113,5 @@ Distributed under the MIT License.
 
 ```
 
-Feel free to replace `[Your Name]` with your actual name or GitHub username and update the clone URL in the Installation section with the actual repository URL. If there's any specific feature or additional detail you want to include, let me know!
-```
+
 ````
