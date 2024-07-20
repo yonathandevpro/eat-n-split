@@ -30,8 +30,6 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/yonathandevpro/eat-n-split.git
    ```
 
-````
-
 2. **Navigate to the project directory:**
 
    ```bash
@@ -107,11 +105,4 @@ Contributions are what make the open-source community such an amazing place to b
 
 Distributed under the MIT License.
 
----
-
 **Developed by [yonathandevpro]**
-
-```
-
-
-````
