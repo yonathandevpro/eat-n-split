@@ -103,6 +103,8 @@ Contributions are what make the open-source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
 
 **Developed by [yonathandevpro]**
